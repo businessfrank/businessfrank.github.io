@@ -1,7 +1,7 @@
 ---
 title: Blog
 subtitle: My Blog
-layout: blog
+layout: page 
 order : 2
 ---
   
